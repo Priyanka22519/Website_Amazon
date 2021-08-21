@@ -25,3 +25,36 @@ width: 1350px;
 {
 width: 500px;
 }
+.spa
+{
+color: teal;
+}
+svg 
+{
+color: white;
+}
+.loc svg
+{
+margin-top: 5px;
+}
+.s4 i
+{
+font-size:30px;
+}
+.en
+{
+position: absolute;
+
+left: 73.7%;
+top: 28%
+}
+/* .earth a
+{
+margin-top: 10px;
+} */
+.sky
+{
+display: inline-block;
+margin-top: 8px;
+font-size: 18px;
+}
