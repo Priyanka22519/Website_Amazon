@@ -41,20 +41,24 @@ margin-top: 5px;
 {
 font-size:30px;
 }
-.en
+/* .en
 {
-position: absolute;
-
 left: 73.7%;
 top: 28%
-}
-/* .earth a
+}  */
+.en
 {
-margin-top: 10px;
-} */
-.sky
+margin-bottom: px;
+display: inline-block;
+}  
+/* .sky
 {
 display: inline-block;
 margin-top: 8px;
 font-size: 18px;
+} */
+.earth
+{
+margin: 2px;
+padding: 2px;
 }
